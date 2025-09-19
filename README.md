@@ -39,3 +39,9 @@ Create database and import schema:
 
 # Test with 
 http://localhost/newshub/
+
+![Screenshot](https://raw.githubusercontent.com/AsimJaved706/fetch_news/main/screenshots/Asim_Report_1.png)
+
+![Screenshot](https://raw.githubusercontent.com/AsimJaved706/fetch_news/main/screenshots/Asim_Report_2.png)
+
+![Screenshot](https://raw.githubusercontent.com/AsimJaved706/fetch_news/main/screenshots/Asim_Report_3.png)
